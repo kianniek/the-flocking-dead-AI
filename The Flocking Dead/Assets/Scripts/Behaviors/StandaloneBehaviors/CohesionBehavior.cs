@@ -22,7 +22,7 @@ public class CohesionBehavior : FlockBehavior
                 continue;
 
             // TODO: determine direction towards other agent
-            // direction += ???;
+            direction += (Vector2) (context[i].transform.position - a.transform.position);
         }
 
         // average out the direction
