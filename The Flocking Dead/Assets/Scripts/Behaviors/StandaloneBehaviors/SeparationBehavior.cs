@@ -32,7 +32,7 @@ public class SeparationBehavior : FlockBehavior
             if (distance <= GameManager.instance.space)
             {
                 // TODO: determine direction away from other agent
-                // direction += ???;
+                direction += (Vector2)(a.transform.position - context[i].transform.position);
             }
         }
 
