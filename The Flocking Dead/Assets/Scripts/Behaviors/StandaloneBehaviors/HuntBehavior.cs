@@ -42,7 +42,7 @@ public class HuntBehavior : FlockBehavior
         if (closestAgent != null)
         {
             // TODO: determine direction towards prey
-            // direction += ???;
+            direction += (Vector2)(closestAgent.transform.position - a.transform.position);
         }
 
         // average out the direction
