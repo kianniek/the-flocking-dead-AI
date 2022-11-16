@@ -1,0 +1,1472 @@
+fileFormatVersion: 2
+guid: b0c2f6161ba2917439f749efaa66a088
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4689309956650067443
+    second: ocean-autotiles-anim_0
+  - first:
+      213: -2752578801482113960
+    second: ocean-autotiles-anim_1
+  - first:
+      213: -1769557122430810613
+    second: ocean-autotiles-anim_2
+  - first:
+      213: 2188461628074722945
+    second: ocean-autotiles-anim_3
+  - first:
+      213: 8670865543291754321
+    second: ocean-autotiles-anim_5
+  - first:
+      213: -4726593200808227688
+    second: ocean-autotiles-anim_6
+  - first:
+      213: -4587070573795481328
+    second: ocean-autotiles-anim_7
+  - first:
+      213: -7815684510805239511
+    second: ocean-autotiles-anim_8
+  - first:
+      213: 8526679901375254581
+    second: ocean-autotiles-anim_9
+  - first:
+      213: 8828145570336475669
+    second: ocean-autotiles-anim_10
+  - first:
+      213: -2664856721760254625
+    second: ocean-autotiles-anim_11
+  - first:
+      213: 1228860052232596643
+    second: ocean-autotiles-anim_12
+  - first:
+      213: -8381609359739916952
+    second: ocean-autotiles-anim_14
+  - first:
+      213: -207561001882393829
+    second: ocean-autotiles-anim_15
+  - first:
+      213: -1607311988546968241
+    second: ocean-autotiles-anim_16
+  - first:
+      213: 6384745300835644737
+    second: ocean-autotiles-anim_17
+  - first:
+      213: 5003114889232284460
+    second: ocean-autotiles-anim_18
+  - first:
+      213: 41596845530396549
+    second: ocean-autotiles-anim_19
+  - first:
+      213: 8221747071096592297
+    second: ocean-autotiles-anim_20
+  - first:
+      213: 8688871796764246191
+    second: ocean-autotiles-anim_21
+  - first:
+      213: 1490999688116985342
+    second: ocean-autotiles-anim_22
+  - first:
+      213: -1170663909853149713
+    second: ocean-autotiles-anim_23
+  - first:
+      213: 3980078047072203489
+    second: ocean-autotiles-anim_24
+  - first:
+      213: 1216595952642889147
+    second: ocean-autotiles-anim_25
+  - first:
+      213: 8803922029247424026
+    second: ocean-autotiles-anim_27
+  - first:
+      213: -972355778391842393
+    second: ocean-autotiles-anim_28
+  - first:
+      213: 5107906661005657148
+    second: ocean-autotiles-anim_29
+  - first:
+      213: 8712224757436012628
+    second: ocean-autotiles-anim_30
+  - first:
+      213: -5383215122368559952
+    second: ocean-autotiles-anim_31
+  - first:
+      213: -7487542068260117048
+    second: ocean-autotiles-anim_32
+  - first:
+      213: 6927233844373248164
+    second: ocean-autotiles-anim_33
+  - first:
+      213: 7469189340085945759
+    second: ocean-autotiles-anim_34
+  - first:
+      213: 7354140833868237065
+    second: ocean-autotiles-anim_36
+  - first:
+      213: 190173184323221227
+    second: ocean-autotiles-anim_37
+  - first:
+      213: -4354850628666381974
+    second: ocean-autotiles-anim_38
+  - first:
+      213: 7503757763157787826
+    second: ocean-autotiles-anim_39
+  - first:
+      213: 6824224002974257773
+    second: ocean-autotiles-anim_40
+  - first:
+      213: 1890216915846850192
+    second: ocean-autotiles-anim_41
+  - first:
+      213: 3568863470701074174
+    second: ocean-autotiles-anim_42
+  - first:
+      213: -9086372414346765340
+    second: ocean-autotiles-anim_43
+  - first:
+      213: -8055403757930778658
+    second: ocean-autotiles-anim_44
+  - first:
+      213: -2412178137366522674
+    second: ocean-autotiles-anim_45
+  - first:
+      213: -793232270017781589
+    second: ocean-autotiles-anim_46
+  - first:
+      213: 7147456818743070453
+    second: ocean-autotiles-anim_47
+  - first:
+      213: -9156468729252870354
+    second: ocean-autotiles-anim_49
+  - first:
+      213: -4577770321518453412
+    second: ocean-autotiles-anim_50
+  - first:
+      213: 1108668859435498645
+    second: ocean-autotiles-anim_51
+  - first:
+      213: 2741133798262110729
+    second: ocean-autotiles-anim_52
+  - first:
+      213: -8195159808008349522
+    second: ocean-autotiles-anim_53
+  - first:
+      213: -7761030890443275929
+    second: ocean-autotiles-anim_54
+  - first:
+      213: 4859757684864667726
+    second: ocean-autotiles-anim_55
+  - first:
+      213: -6820406541426685321
+    second: ocean-autotiles-anim_56
+  - first:
+      213: -7699936941436133389
+    second: ocean-autotiles-anim_58
+  - first:
+      213: 4029747606428161755
+    second: ocean-autotiles-anim_59
+  - first:
+      213: -8949231292502693999
+    second: ocean-autotiles-anim_60
+  - first:
+      213: 4287589351746954676
+    second: ocean-autotiles-anim_61
+  - first:
+      213: -1394203667967993077
+    second: ocean-autotiles-anim_62
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a9b2080793ceeb0800000000000000
+      internalID: -4689309956650067443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c5361f920ecc9d0800000000000000
+      internalID: -2752578801482113960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06cfb33c254177e0800000000000000
+      internalID: -1769557122430810613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18687f9714afe5e10800000000000000
+      internalID: 2188461628074722945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_5
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157541b754a155870800000000000000
+      internalID: 8670865543291754321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_6
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c8c04c684c76eb0800000000000000
+      internalID: -4726593200808227688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_7
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019e541dd937750c0800000000000000
+      internalID: -4587070573795481328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_8
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9295ee0c85c198390800000000000000
+      internalID: -7815684510805239511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5305feaa13ad45670800000000000000
+      internalID: 8526679901375254581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a08596f9fd38a70800000000000000
+      internalID: 8828145570336475669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_11
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f550b2a3ee6840bd0800000000000000
+      internalID: -2664856721760254625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_12
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acedfbe4b9cd0110800000000000000
+      internalID: 1228860052232596643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_14
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86dec9ae1ba8eab80800000000000000
+      internalID: -8381609359739916952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_15
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1363955e589e1df0800000000000000
+      internalID: -207561001882393829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_16
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f456e67234ea1b9e0800000000000000
+      internalID: -1607311988546968241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_17
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14537a5f50c2b9850800000000000000
+      internalID: 6384745300835644737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_18
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b782feb72ae6540800000000000000
+      internalID: 5003114889232284460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_19
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587bd915c18c39000800000000000000
+      internalID: 41596845530396549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_20
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a712d58663891270800000000000000
+      internalID: 8221747071096592297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_21
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa00b011dd2159870800000000000000
+      internalID: 8688871796764246191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_22
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd5e62115811b410800000000000000
+      internalID: 1490999688116985342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_23
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe545dd5067f0cfe0800000000000000
+      internalID: -1170663909853149713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_24
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2b11e75e31c3730800000000000000
+      internalID: 3980078047072203489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_25
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb51578b29732e010800000000000000
+      internalID: 1216595952642889147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_27
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16678fb070dd2a70800000000000000
+      internalID: 8803922029247424026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_28
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1e7a1429f7182f0800000000000000
+      internalID: -972355778391842393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_29
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34081b9b0ee2e640800000000000000
+      internalID: 5107906661005657148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_30
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458565ee14a08e870800000000000000
+      internalID: 8712224757436012628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_31
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b406b12e5afa45b0800000000000000
+      internalID: -5383215122368559952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_32
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5ef8cd828e61890800000000000000
+      internalID: -7487542068260117048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_33
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a85ee9ba7a722060800000000000000
+      internalID: 6927233844373248164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_34
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9505ff9124e7a760800000000000000
+      internalID: 7469189340085945759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_36
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90949eedf182f0660800000000000000
+      internalID: 7354140833868237065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_37
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6f369e081a3a200800000000000000
+      internalID: 190173184323221227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_38
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69247c1d667093c0800000000000000
+      internalID: -4354850628666381974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_39
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b48991dde3b22860800000000000000
+      internalID: 7503757763157787826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_40
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6299fc039384be50800000000000000
+      internalID: 6824224002974257773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_41
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0966c7925466b3a10800000000000000
+      internalID: 1890216915846850192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_42
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6510ffa66278130800000000000000
+      internalID: 3568863470701074174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_43
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebd3f94e68b6e180800000000000000
+      internalID: -9086372414346765340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_44
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf603626f4753090800000000000000
+      internalID: -8055403757930778658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_45
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec41e4ba3c8368ed0800000000000000
+      internalID: -2412178137366522674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_46
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0a631047fddf4f0800000000000000
+      internalID: -793232270017781589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_47
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fecf989b1ed03360800000000000000
+      internalID: 7147456818743070453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_49
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2709eb2430bde080800000000000000
+      internalID: -9156468729252870354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_50
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d119a852e7870c0800000000000000
+      internalID: -4577770321518453412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_51
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cb0342478c26f00800000000000000
+      internalID: 1108668859435498645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_52
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90afa379aa67a0620800000000000000
+      internalID: 2741133798262110729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_53
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea89a1e0391f44e80800000000000000
+      internalID: -8195159808008349522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_54
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7618b4c56874b4490800000000000000
+      internalID: -7761030890443275929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_55
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4055d4cdd3517340800000000000000
+      internalID: 4859757684864667726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_56
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a038af26c0951a0800000000000000
+      internalID: -6820406541426685321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean-autotiles-anim_58
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff9ac4d524542590800000000000000
+      internalID: -7699936941436133389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ocean-autotiles-anim_20: 8221747071096592297
+      ocean-autotiles-anim_40: 6824224002974257773
+      ocean-autotiles-anim_51: 1108668859435498645
+      ocean-autotiles-anim_18: 5003114889232284460
+      ocean-autotiles-anim_45: -2412178137366522674
+      ocean-autotiles-anim_24: 3980078047072203489
+      ocean-autotiles-anim_5: 8670865543291754321
+      ocean-autotiles-anim_30: 8712224757436012628
+      ocean-autotiles-anim_1: -2752578801482113960
+      ocean-autotiles-anim_27: 8803922029247424026
+      ocean-autotiles-anim_46: -793232270017781589
+      ocean-autotiles-anim_52: 2741133798262110729
+      ocean-autotiles-anim_56: -6820406541426685321
+      ocean-autotiles-anim_50: -4577770321518453412
+      ocean-autotiles-anim_9: 8526679901375254581
+      ocean-autotiles-anim_36: 7354140833868237065
+      ocean-autotiles-anim_44: -8055403757930778658
+      ocean-autotiles-anim_3: 2188461628074722945
+      ocean-autotiles-anim_55: 4859757684864667726
+      ocean-autotiles-anim_38: -4354850628666381974
+      ocean-autotiles-anim_12: 1228860052232596643
+      ocean-autotiles-anim_28: -972355778391842393
+      ocean-autotiles-anim_47: 7147456818743070453
+      ocean-autotiles-anim_14: -8381609359739916952
+      ocean-autotiles-anim_25: 1216595952642889147
+      ocean-autotiles-anim_17: 6384745300835644737
+      ocean-autotiles-anim_37: 190173184323221227
+      ocean-autotiles-anim_53: -8195159808008349522
+      ocean-autotiles-anim_31: -5383215122368559952
+      ocean-autotiles-anim_2: -1769557122430810613
+      ocean-autotiles-anim_7: -4587070573795481328
+      ocean-autotiles-anim_21: 8688871796764246191
+      ocean-autotiles-anim_42: 3568863470701074174
+      ocean-autotiles-anim_39: 7503757763157787826
+      ocean-autotiles-anim_33: 6927233844373248164
+      ocean-autotiles-anim_11: -2664856721760254625
+      ocean-autotiles-anim_34: 7469189340085945759
+      ocean-autotiles-anim_23: -1170663909853149713
+      ocean-autotiles-anim_10: 8828145570336475669
+      ocean-autotiles-anim_43: -9086372414346765340
+      ocean-autotiles-anim_49: -9156468729252870354
+      ocean-autotiles-anim_22: 1490999688116985342
+      ocean-autotiles-anim_54: -7761030890443275929
+      ocean-autotiles-anim_32: -7487542068260117048
+      ocean-autotiles-anim_29: 5107906661005657148
+      ocean-autotiles-anim_6: -4726593200808227688
+      ocean-autotiles-anim_41: 1890216915846850192
+      ocean-autotiles-anim_8: -7815684510805239511
+      ocean-autotiles-anim_15: -207561001882393829
+      ocean-autotiles-anim_0: -4689309956650067443
+      ocean-autotiles-anim_58: -7699936941436133389
+      ocean-autotiles-anim_16: -1607311988546968241
+      ocean-autotiles-anim_19: 41596845530396549
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
