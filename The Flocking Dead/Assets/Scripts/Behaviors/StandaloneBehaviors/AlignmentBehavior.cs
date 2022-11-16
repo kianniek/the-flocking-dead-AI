@@ -22,7 +22,7 @@ public class AlignmentBehavior : FlockBehavior
                 continue;
 
             // TODO: determine direction of other agent
-            // direction += ???;
+            direction += context[i].wantedDirection;
         }
 
         // average out the direction
