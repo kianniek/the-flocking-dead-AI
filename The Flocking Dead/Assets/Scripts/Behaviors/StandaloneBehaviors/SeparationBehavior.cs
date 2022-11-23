@@ -31,7 +31,7 @@ public class SeparationBehavior : FlockBehavior
             // separate if agent is in space
             if (distance <= GameManager.instance.space)
             {
-                // TODO: determine direction away from other agent
+                //determine direction away from other agent
                 direction += (Vector2)(a.transform.position - context[i].transform.position);
             }
         }

@@ -21,7 +21,7 @@ public class CohesionBehavior : FlockBehavior
             if (a.isZombie != context[i].isZombie)
                 continue;
 
-            // TODO: determine direction towards other agent
+            //determine direction towards other agent
             direction += (Vector2) (context[i].transform.position - a.transform.position);
         }
 

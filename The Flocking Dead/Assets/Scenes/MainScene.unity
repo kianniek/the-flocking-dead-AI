@@ -152,8 +152,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8c3ae6485d8426b43b99e00679295485, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  swarmCount: 30
-  percentZombie: 0.05
+  swarmCount: 50
+  percentZombie: 0
   agentPrefab: {fileID: 8662770362465478251, guid: 9f26636441e1c3d4ca0bac9e14a1e337, type: 3}
   sight: 7
   space: 2
@@ -162,7 +162,7 @@ MonoBehaviour:
   baseTilemap: {fileID: 272331211}
   collisionTilemap: {fileID: 1616230932}
   cameraController: {fileID: 519420030}
-  visualizeSightAndSpace: 0
+  visualizeSightAndSpace: 1
 --- !u!4 &243328508
 Transform:
   m_ObjectHideFlags: 0

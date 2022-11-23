@@ -14,12 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   behaviors:
   - behavior: {fileID: 11400000, guid: e4fad454d8aafdc4ea102153f4aacec5, type: 2}
-    weight: 1
+    weight: 3
   - behavior: {fileID: 11400000, guid: dec5354484626fe45b25efa692256949, type: 2}
     weight: 1
   - behavior: {fileID: 11400000, guid: 2ed55c0982d506a49abf35f4cfadb700, type: 2}
-    weight: 1
+    weight: 5
   - behavior: {fileID: 11400000, guid: 49416f63eb9b5a9449b164c80bcd406c, type: 2}
-    weight: 1
+    weight: 3
   - behavior: {fileID: 11400000, guid: d6a3c8ca545f4d94ebb40b2169909c97, type: 2}
-    weight: 1
+    weight: 10

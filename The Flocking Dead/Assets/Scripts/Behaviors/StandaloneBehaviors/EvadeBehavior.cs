@@ -36,13 +36,13 @@ public class EvadeBehavior : FlockBehavior
                 closestDistance = distance;
                 closestAgent = context[i];
             }
-            // TODO: determine direction away from the zombie
+            //determine direction away from the zombie
             direction += (Vector2)(a.transform.position - context[i].transform.position);
         }
 
         // average out the direction
         direction.Normalize();
-
+ 
         // return resulting direction 
         return direction;
     }

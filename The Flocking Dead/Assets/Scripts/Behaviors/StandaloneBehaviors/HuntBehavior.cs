@@ -41,13 +41,12 @@ public class HuntBehavior : FlockBehavior
         // if we found a closest agent
         if (closestAgent != null)
         {
-            // TODO: determine direction towards prey
+            //determine direction towards prey
             direction += (Vector2)(closestAgent.transform.position - a.transform.position);
         }
 
         // average out the direction
         direction.Normalize();
-
         // return resulting direction 
         return direction;
     }

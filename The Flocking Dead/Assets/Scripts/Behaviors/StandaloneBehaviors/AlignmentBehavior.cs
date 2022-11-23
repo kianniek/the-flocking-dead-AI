@@ -27,7 +27,6 @@ public class AlignmentBehavior : FlockBehavior
 
         // average out the direction
         direction.Normalize();
-
         // return resulting direction 
         return direction;
     }
